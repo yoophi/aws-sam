@@ -1,0 +1,7 @@
+- Custom Authorizor
+- JWT Auth
+- CORS
+- DynamoDB
+	- 개발시 Local DynamoDB 사용하기
+- Parameters
+- CloudWatch Logs
